@@ -1,0 +1,9 @@
+	Sales Tax :- %
+	Years :- 5 years
+	Interest Rate :- 4.5%
+	Down Payment :- 5000
+	Auto Price :- $25,000.00
+	Monthly Pay :- $372.86
+
+	Auto Loan History Details ( 2020-07-12T02:14:04.693 )
+

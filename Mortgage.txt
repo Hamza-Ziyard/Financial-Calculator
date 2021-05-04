@@ -1,0 +1,32 @@
+	Years :- 5 years
+	Interest Rate :- 11%
+	Down Payment :- 12311
+	Home Price :- $122,002.00
+	Monthly Pay :- $2,384.95
+
+	Mortgage History Details ( 2020-07-09T13:44:05.268 )
+
+	Years :- 2 years
+	Interest Rate :- 3%
+	Down Payment :- 0
+	Home Price :- $12,000.00
+	Monthly Pay :- $515.77
+
+	Mortgage History Details ( 2020-07-09T13:59:13.990 )
+
+	Years :- 2 years
+	Interest Rate :- 3.05%
+	Down Payment :- 0
+	Home Price :- $12,000.00
+	Monthly Pay :- $516.04
+
+	Mortgage History Details ( 2020-07-09T13:59:33.283 )
+
+	Years :- 10 years
+	Interest Rate :- 6%
+	Down Payment :- 1000
+	Home Price :- $20,000.00
+	Monthly Pay :- $210.94
+
+	Mortgage History Details ( 2020-07-11T19:20:18.417 )
+
